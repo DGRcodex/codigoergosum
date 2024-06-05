@@ -25,7 +25,7 @@ All configuration is done in the four configuration files under `config/_default
 `hugo.yaml`:
 ```yaml
 baseURL: 'https://Samba-Lab.github.io/codigoergosum'
-title: 'Qubt Theme'
+title: 'Código Ergo Sum'
 ```
 
 `menus.yaml`:
@@ -49,9 +49,9 @@ main:
 ############################
 
 author:
-  name: Samba-Lab
+  name: DGRcodex
   image: author.jpeg
-  greeting: "A personal blog theme for Hugo :evergreen_tree:"
+  greeting: "Sobre Tecnología, Filosofía de la Técnica e Inteligencia Artificial"
   icon: ":wave:"
 
 ############################
@@ -68,7 +68,7 @@ links:
 ###############################
 
 title: codigoergosum
-description: "Demo site build with Qubt & Hugo"
+description: "Sobre Filosofía de la Técnica y actualidad tecnológica"
 images:
   - thumbnail.jpeg
 ```

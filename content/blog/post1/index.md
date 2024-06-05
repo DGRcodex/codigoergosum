@@ -1,8 +1,8 @@
 ---
-title: Blog Post with Inline Images
+title: Algunos Filósofos de la Técnica impresindibles
 subtitle: "Blog post subtitle :zap:"
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-date: 2023-11-24
+date: 2024-06-05
 cardimage: photo1_card.jpeg
 featureimage: photo1.jpeg
 caption: Image caption
@@ -26,8 +26,18 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id erat enim. Ut 
 - List item 2
 - List item 3
 
-Cras ligula velit, aliquet ac orci dapibus, molestie ultricies libero. Donec at bibendum est. Phasellus vulputate dapibus quam vel accumsan. Curabitur at felis euismod, lobortis urna id, lobortis dolor. Cras tortor ligula, euismod quis lacus faucibus, condimentum fringilla dolor. Mauris in maximus nisi. Phasellus facilisis lacus quis mi cursus, a ornare mi maximus. Nullam nunc lacus, tincidunt varius risus nec, pellentesque vulputate ligula. Etiam id purus et tortor porta mattis. Donec id sapien nulla. Vivamus at malesuada tellus, id ultricies ante. Maecenas ullamcorper mi massa, at rutrum risus aliquet a. Donec sem tortor, molestie quis ex a, faucibus commodo augue. Morbi convallis sem vel tellus facilisis, et sodales felis consequat. Aliquam ut ante tristique, volutpat lectus vestibulum, egestas sapien.
+1. **Martin Heidegger**: En su obra "La pregunta por la técnica" (1954), Heidegger analiza la esencia de la técnica y su impacto en la humanidad. Argumenta que la técnica moderna no es simplemente un conjunto de herramientas, sino una forma de revelar el mundo que transforma la manera en que los seres humanos entienden y se relacionan con la realidad.
 
-Donec tellus est, faucibus eget ultricies ac, posuere non augue. Fusce ultrices lectus quis nunc lacinia, non tincidunt lectus ultrices. Morbi sodales nisi at felis luctus, eu convallis tortor commodo. Morbi tristique nibh neque, vel tristique dolor laoreet eget. Phasellus felis erat, mattis at suscipit id, faucibus in dolor. In vitae odio at lectus tincidunt dignissim. Fusce risus nisl, hendrerit a ultricies vitae, porta id sapien. Nam elit nunc, hendrerit ut sem quis, ultrices varius leo. Nullam eget lectus in sapien venenatis iaculis at at turpis. Etiam iaculis magna porttitor augue tempus suscipit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nullam suscipit nibh leo, in pellentesque urna luctus et. Duis diam ipsum, posuere nec tellus sit amet, dignissim feugiat massa. Etiam ut sollicitudin lorem. Quisque commodo libero non mauris viverra malesuada. Morbi vitae auctor felis.
+2. **Jacques Ellul**: En "La técnica o el desafío del siglo" (1954), Ellul explora cómo la técnica se ha convertido en una fuerza autónoma que domina la sociedad moderna. Argumenta que la técnica impone su propia lógica y ritmo, afectando todas las áreas de la vida humana.
 
-Maecenas ac dignissim dolor. Sed vitae nisl vel ante rutrum tincidunt ac et diam. Integer id dignissim quam. Vestibulum quis enim sit amet tellus tincidunt sagittis ut vitae nunc. Sed hendrerit, quam ut fermentum imperdiet, augue purus cursus felis, in ultricies elit mauris in risus. Morbi hendrerit imperdiet vehicula. Etiam porttitor magna eu quam laoreet ullamcorper. Etiam a erat ante. Curabitur pharetra, lacus in porttitor cursus, libero lacus consectetur dui, sit amet auctor tellus magna et enim. Pellentesque tristique molestie fringilla. Vivamus sit amet tincidunt quam. Morbi eu nisi quam. Nunc ultrices vel sem sit amet aliquam.
+3. **Lewis Mumford**: Mumford, en obras como "Técnica y civilización" (1934), ofrece una visión crítica de la tecnología y su desarrollo histórico. Destaca cómo las tecnologías pueden moldear las estructuras sociales y culturales, y hace un llamado a un uso más humano y sostenible de la técnica.
+
+4. **Herbert Marcuse**: En "El hombre unidimensional" (1964), Marcuse critica la sociedad tecnológica avanzada y su capacidad para limitar la libertad y la creatividad humanas. Analiza cómo la tecnología puede ser utilizada para el control social y la alienación.
+
+5. **Bruno Latour**: En sus trabajos sobre la teoría del actor-red, Latour examina cómo los objetos técnicos y las redes de actores humanos y no humanos co-construyen la realidad social. Obras como "Nunca fuimos modernos" (1991) y "Reensamblar lo social" (2005) son fundamentales en este análisis.
+
+6. **Don Ihde**: Uno de los principales filósofos de la tecnología en el ámbito de la fenomenología. Su obra "Technology and the Lifeworld" (1990) explora cómo las tecnologías median nuestra experiencia del mundo.
+
+7. **Andrew Feenberg**: Con su enfoque en la teoría crítica de la tecnología, Feenberg argumenta en obras como "Transforming Technology" (2002) que la tecnología no es neutral y puede ser transformada para servir a los intereses humanos más amplios y democráticos.
+
+8. **Bernard Stiegler**: En obras como "La técnica y el tiempo" (1994), Stiegler analiza la relación entre la tecnología y la temporalidad, y cómo las tecnologías afectan la memoria, la subjetividad y la cultura.
