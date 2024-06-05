@@ -3,7 +3,7 @@
 ############################
 
 author:
-  name: Samba-Lab
+  name: Dgrcodex
   image: author.png
   greeting: "Your new Qubt site :tada:"
   icon: ":wave:"
@@ -65,6 +65,6 @@ links:
 ###############################
 
 title: codigoergosum
-description: "Site build with Qubt & Hugo"
+description: "Filosofía de la Técnica y actualidad"
 images:
   - thumbnail.png
